@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <span style="font-size: 48px; font-weight: bold;">Hi there, I'm Harsha 👋</span>
+  <span style="font-size: 150px; font-weight: bold;">Hi there, I'm Harsha 👋</span>
 </p>
 
 
