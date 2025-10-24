@@ -11,9 +11,12 @@
   </a> -->
 </div>
 <div align="center">
+  <!-- Top gradient label with username -->
   <p>
-    <img src="https://img.shields.io/badge/Profile%20Views-Hit133-4c1?style=for-the-badge&logo=github&logoColor=white&labelColor=6f42c1" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/Profile-Hit133-4c1?style=for-the-badge&logo=github&logoColor=white&labelColor=6f42c1" alt="Profile Label"/>
   </p>
+
+  <!-- Bottom live profile views badge -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=Hit133&style=flat-square&color=blue" alt="Live Profile Views"/>
   </p>
