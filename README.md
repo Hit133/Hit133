@@ -45,13 +45,4 @@
 </div>
 <br/>
 
-### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamboji-Akhilesh&layout=compact&theme=vision-friendly-dark&&exclude_repo=Quantum-Hackathon)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kamboji-Akhilesh&theme=dark&background=000000)](https://git.io/streak-stats)
-<br />
-![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamboji-Akhilesh&show_icons=true&theme=dark)
-
-### :moneybag: Support :
-<!-- <a href="https://www.buymeacoffee.com/kambojiakhilesh"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akhilesh" /></a> -->
