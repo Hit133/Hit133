@@ -27,8 +27,8 @@
 - Ask me about Python, ML
 - I’m always curious about emerging tech and enjoy learning through articles and projects.
 
-- 📫 How to reach me: &nbsp; [![LinkedIn Badge](https://img.shields.io/badge/-M%20Hitesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Hit133/)
-(https://www.linkedin.com/in/m-hitesh-b2a788357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-M%20Hitesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m-hitesh-b2a788357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
