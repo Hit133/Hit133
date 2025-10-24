@@ -1,3 +1,6 @@
+![Welcome GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVjb2pjenM3aDd2djllcDR6NTZ5bWZtcTc0dm44anFpYmYxNGZjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtpxSZbQRRnwCKQ/giphy.gif)
+
+
 ## Hi there 👋
 
 <!--
