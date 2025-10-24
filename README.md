@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <big><strong>Hi there, I'm Harsha 👋</strong></big>
+  <span style="font-size: 48px; font-weight: bold;">Hi there, I'm Harsha 👋</span>
 </p>
+
 
 
 
