@@ -17,7 +17,7 @@
 <h1 align="center">Hi 👋! My name is M Hitesh</h1>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpzeTJucHdmem12b2kzMTdyeWxvYmhmajJheW04dW1iOGFtNjV1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGsHjfmwF3VMCuNQA4/giphy.gif" width="600" height="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc251cDB4ZWZybHB6cjBqeWdleXd2MXhkYXAwamM2M2o0aTUxZDNjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mWK6qsWFY6w5xMKG5D/giphy.gif" width="600" height="300"/>
 </div>
 
 ### :man_technologist: About Me :
