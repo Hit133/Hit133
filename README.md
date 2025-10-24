@@ -1,27 +1,62 @@
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVjb2pjenM3aDd2djllcDR6NTZ5bWZtcTc0dm44anFpYmYxNGZjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="Welcome GIF" />
-</p>
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTR1dmJjdHlkdHpmMWxoZmt3c2YxeGxwOGdwYm9yenZtZXRyamhjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="125"/>
+</div>
 
-<p align="center">
-  <span style="font-size: 150px; font-weight: bold;">Hi there, I'm Harsha 👋</span>
-</p>
+<div align="center" id="badges">
+  <a href="https://www.linkedin.com/in/m-hitesh-b2a788357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <!-- <a href="https://twitter.com/KAMBOJIAKHILES">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a> -->
+</div>
+<div align="center">
+   <img src="https://komarev.com/ghpvc/?username=Hit133&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
 
+<h1 align="center">Hi 👋! My name is M Hitesh</h1>
 
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpzeTJucHdmem12b2kzMTdyeWxvYmhmajJheW04dW1iOGFtNjV1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGsHjfmwF3VMCuNQA4/giphy.gif" width="600" height="300"/>
+</div>
 
+### :man_technologist: About Me :
 
+- 🌱 I’m currently woriking on React and developing stunning websites
+- 👯 I’m looking to collaborate on anything based on Flutter, React and Java
+- 💬 Ask me about Flutter, Angular, Spring Boot, React
+- ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Kamboji%20Akhilesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamboji-akhilesh-b9333b12b)
 
+### :hammer_and_wrench: Languages and Tools :
 
-<!--
-**Hit133/Hit133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="30" alt="HTML"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  height="30" alt="CSS" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30"  alt="Postman"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" height="30" alt="Git" />&nbsp;
+</div>
+</div>
+<br/>
 
-Here are some ideas to get you started:
+### :fire: My Stats :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamboji-Akhilesh&layout=compact&theme=vision-friendly-dark&&exclude_repo=Quantum-Hackathon)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kamboji-Akhilesh&theme=dark&background=000000)](https://git.io/streak-stats)
+<br />
+![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamboji-Akhilesh&show_icons=true&theme=dark)
+
+### :moneybag: Support :
+<a href="https://www.buymeacoffee.com/kambojiakhilesh"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akhilesh" /></a>
