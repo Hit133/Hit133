@@ -17,16 +17,18 @@
 <h1 align="center">Hi 👋! My name is M Hitesh</h1>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM2Znlhc2k3dHAwM3k1Y3ZwcGx0eHp2cmh0ZDZrazN2NGVhdmY5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Er3QVX48nt5ok/giphy.gif" width="600" height="300"/>
+  <img src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGlvaTJjMWlhc3FtYWdmNmVkMXJ3aDdyZjlwM3J1cTV3a2Y4aG1wZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13rQ7rrTrvZXlm/giphy.gif" width="600" height="300"/>
 </div>
 
 ### :man_technologist: About Me :
 
-- 🌱 I’m currently woriking on React and developing stunning websites
-- 👯 I’m looking to collaborate on anything based on Flutter, React and Java
-- 💬 Ask me about Flutter, Angular, Spring Boot, React
-- ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Kamboji%20Akhilesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamboji-akhilesh-b9333b12b)
+- I’m currently working on Python, SQL, AI, and Machine Learning
+- I’m looking to collaborate on anything based on Python, AI/ML, SQL, Power BI
+- Ask me about Python, ML
+- I’m always curious about emerging tech and enjoy learning through articles and projects.
+
+- 📫 How to reach me: &nbsp; [![LinkedIn Badge](https://img.shields.io/badge/-M%20Hitesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Hit133/)
+(https://www.linkedin.com/in/m-hitesh-b2a788357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ### :hammer_and_wrench: Languages and Tools :
 
